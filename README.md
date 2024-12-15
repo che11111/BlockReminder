@@ -15,10 +15,13 @@ Directly add configuration items in the configuration file. After restarting the
 ## Plugin Permissions
 
 ### Permission to Bypass Listening Events
-**Permission**: `BlockReminder.bypass.<group name>`
-**Example**: Players who have the permission `BlockReminder.bypass.test1` can bypass the behavior control of this group.
+
+Permission: `BlockReminder.bypass.<group name>`
+
+Example: Players who have the permission `BlockReminder.bypass.test1` can bypass the behavior control of this group.
 
 ### Configuration File
+
 config.yml
 
 ```yaml
