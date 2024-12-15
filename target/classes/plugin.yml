@@ -1,0 +1,8 @@
+name: PlaceReminder
+version: '1.00'
+main: com.che1sBukkit.BlockReminder.Main
+api-version: '1.20'
+permission:
+  bypass.test1:
+    default: op
+    description: Permission for skipping reminding

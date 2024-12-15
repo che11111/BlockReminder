@@ -1,0 +1,21 @@
+test1:
+  material: soul_sand
+  message: '§c请不要在主世界制造凋零哦'
+  delay: 10
+  revocate: true
+  worlds: world
+  behavior: place
+test2:
+  material: beacon
+  message: '§e恭喜你制造出了1个信标'
+  delay: 0
+  revocate: false
+  worlds: world,world_nether,world_end
+  behavior: place
+test3:
+  material: ancient_debris
+  message: '§e恭喜你挖到1个远古残骸'
+  delay: 0
+  revocate: false
+  worlds: world_nether
+  behavior: destroy
