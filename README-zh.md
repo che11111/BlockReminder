@@ -29,7 +29,7 @@
 **例如：**拥有 BlockReminder.bypass.test1 这个权限的玩家，那么他绕过这个组的行为管控
 
 
-### 五、配置文件
+## 配置文件
 
 config.yml
 
