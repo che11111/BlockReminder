@@ -20,7 +20,7 @@ Permission: `BlockReminder.bypass.<group name>`
 
 Example: Players who have the permission `BlockReminder.bypass.test1` can bypass the behavior control of this group.
 
-### Configuration File
+## Configuration File
 
 config.yml
 
