@@ -26,7 +26,7 @@
 
 **权限：**`BlockReminder.bypass.<组名>`
 
-**例如：**拥有 BlockReminder.bypass.test1 这个权限的玩家，那么他绕过这个组的行为管控
+**例如：** 拥有 BlockReminder.bypass.test1 这个权限的玩家，那么他绕过这个组的行为管控
 
 
 ## 配置文件
