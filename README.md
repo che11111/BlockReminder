@@ -6,8 +6,10 @@
 When a player places or mines a block, a message will be sent to them.
 
 ## Plugin Information
-**Tested Version**: 1.20.1
-**Server Software**: Spigot, Paper
+
+**Tested Version** : 1.20.1
+
+**Server Software** :  Spigot, Paper
 
 ## Plugin Usage
 Directly add configuration items in the configuration file. After restarting the server, the plugin configuration will take effect.
